@@ -1,4 +1,4 @@
-name: zynga_env
+name: yashsharma
 channels:
   - defaults
   - conda-forge
